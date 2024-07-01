@@ -1,6 +1,5 @@
 #
-# Copyright (C) 2022 The LineageOS Project
-#
+# SPDX-FileCopyrightText: 2022-2024 The LineageOS Project
 # SPDX-License-Identifier: Apache-2.0
 #
 
@@ -67,7 +66,6 @@ PRODUCT_PACKAGES += \
     init.recovery.touch.rc
 
 # Shipping API level
-BOARD_API_LEVEL := 29
 BOARD_SHIPPING_API_LEVEL := 29
 PRODUCT_SHIPPING_API_LEVEL := 29
 
